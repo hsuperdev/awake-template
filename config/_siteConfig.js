@@ -19,8 +19,8 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
+      name: 'Home',
+      link: '/home'
     },
     {
       name: 'Contact',
